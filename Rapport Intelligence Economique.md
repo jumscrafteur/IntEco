@@ -10,11 +10,11 @@
 
 ### Sujet : Attaque de la ville de Palma (Mozambique)
 
-La ville de Palma, située dans la province de Cabo Delgado au Mozambique, a été vitime le mercredi 24 mars 2021 d'une attaque d'envergure. Les forces djihadistes de l'organisation Ansar-Al-Sunnah ont attaqué la ville entraînant la perte de mort de près de 1200 personnes humaines et forcé plus de 40 000 personnes à fuir leurs foyers. Cette crise dévastatrice soulève des questions cruciales sur la capacité de prévision et de réponse des autorités et acteurs de l'évènement face à de telles menaces.
+La ville de Palma, située dans la province de Cabo Delgado au Mozambique, a été vitime le mercredi 24 mars 2021 d'une attaque d'envergure. Les forces djihadistes de l'organisation Ansar-Al-Sunnah ont attaqué la ville entraînant la perte de mort de près de 1200 personnes et forcé plus de 40 000 personnes à fuir leurs foyers. Cette crise soulève des questions cruciales sur la capacité de prévision et de réponse des autorités et acteurs de l'évènement face à de telles menaces.
 
 ### Objectif de l'étude
 
-Cette recherche se concentre sur la possibilité de prévoir et de planifier une réponse anticipée aux attaques djihadistes afin d’améliorer les mesures que les sociétés impliquées dans le drame comme Total pourrait fournir. En examinant les événements précurseurs et les signaux d'alerte, ainsi que les lacunes dans les mécanismes de renseignement et de coordination des autorités locales et nationales, cette étude vise à élaborer un plan de gestion de crise pour les futures menaces similaires.
+Cette recherche se concentre sur la possibilité de prévoir et de planifier une réponse aux attaques djihadistes afin d’améliorer les mesures que les sociétés impliquées dans le drame comme Total pourrait fournir. En examinant les événements précurseurs et les signaux d'alerte, ainsi que les lacunes dans les mécanismes de renseignement et de coordination des autorités locales, cette étude vise à élaborer un plan de gestion de crise pour les futures menaces similaires.
 
 # Alerte précoce et détection de signaux prémonitoires
 
@@ -31,9 +31,9 @@ De plus, la saison des pluies au Mozambique est une période charnière pour le 
   
 Un scandale d’Etat révélé en 2016 ([[Sources Défis Majeurs du Mozambique]][2]) montre que de grands investissements visant entre autres à équiper le Mozambique de navires de surveillance ont été en grande partie détournés. Le contrôle des côtes du pays s’en retrouve donc forcément fragilisé. 
 
-La ville de Palma, malgré son attrait, son dynamisme et son accès à l'océan Atlantique, souffre d'une réalité économique dure. Elle est devenue l'une des villes les plus chères du pays, accentuant ainsi les disparités socio-économiques. Son excentricité couplé au fait que les routes sont peu praticables. La ville risque  d’être en pénurie de denrées alimentaires, mettant en péril la sécurité alimentaire de nombreux habitants. 
+La ville de Palma, malgré son dynamisme et son accès à l'océan Atlantique, souffre d'une réalité économique dure. Elle est devenue l'une des villes les plus chères du pays, accentuant ainsi les disparités socio-économiques. Son excentricité couplée au fait que les routes sont peu praticables. La ville risque  d’être en pénurie de denrées alimentaires, mettant en péril la sécurité alimentaire de nombreux habitants. 
  
-En mai 2019, Total rachète les parts d’Anadarko dans le projet Mozambique LNG pour 3,9 milliards de dollars ([[Sources Défis Majeurs du Mozambique]][3]) , renforçant ainsi sa position dans le gaz naturel liquéfié (GNL). Le projet Mozambique LNG est la première usine de GNL dans le pays. Elle prévoit un démarrage en 2024, avec près de 90 % de sa production déjà commercialisée à destination de clients en Asie et en Europe. Total détient une participation de 26,5 % dans le projet, aux côtés d'autres partenaires. 
+En mai 2019, Total rachète les parts d’Anadarko dans le projet Mozambique LNG pour 3,9 milliards de dollars ([[Sources Défis Majeurs du Mozambique]][3]) , Le projet Mozambique LNG est la première usine de GNL dans le pays. Elle prévoit un démarrage en 2024, avec près de 90 % de sa production déjà commercialisée à destination de clients en Asie et en Europe. Total détient une participation de 26,5 % dans le projet, aux côtés d'autres partenaires. 
 
 ## Conséquences Géopolitiques 
 
@@ -42,9 +42,9 @@ En début d’année 2021, le ministère des affaires étrangères Français a p
 ![|300](https://lh7-us.googleusercontent.com/CyxHtdyAkm_dH1REc7kQQbgC2rOmkC6x3uszbKJdaaJDmyo0w8VNaDR1cI1-calIOPD67Q3kw4vL3Bwn3PIENQxV3lYE2yxKlE8evebQ8dbWgit7SFlWeO5Z6P56HZm9k5iDUipNj_2vL2RKhA-zXUE)
 ### Un problème qui dure
 
-Comme soulevé précédemment du fait de sa situation géopolitique complexe, le Mozambique est le terrain d’affrontement régulier notamment entre les forces de l’ordre  et Al-Shabaab, or “the Youth,” un groupe armé qui pourrait avoir des liens avec l'État Islamique. Ces derniers perpètrent des crimes à travers le pays en commençant par la région nord, plus isolée du pouvoir politique. Ces attaques ont pris de l'ampleur au fil du temps et se sont étendues sur le territoire, posant un défi continu à la sécurité au Mozambique.
+Comme soulevé précédemment du fait de sa situation géopolitique complexe, le Mozambique est le terrain d’affrontement régulier notamment entre les forces de l’ordre  et Al-Shabaab, or “the Youth,” un groupe armé qui pourrait avoir des liens avec l'État Islamique. Ces derniers perpétuent des crimes à travers le pays en commençant par la région nord, plus isolée du pouvoir politique. Ces attaques ont pris de l'ampleur au fil du temps et se sont étendues sur le territoire, posant un défi continu à la sécurité au Mozambique.
 
-Depuis le début des attaques en octobre 2017, la violence s'est intensifiée, avec des pertes humaines et des destructions considérables. Les attaques ciblent non seulement les forces de l'ordre, mais aussi les bâtiments publics, les institutions financières et même les civils. La situation a provoqué le déplacement massif de populations, avec plus de 100 000 personnes déplacées internes, fuyant leurs foyers et leurs terres pour trouver refuge dans des zones plus sécurisées. Malgré les efforts du gouvernement pour contrer cette menace, l'incapacité à contenir efficacement Al-Shabaab a contribué à une escalade de la violence et à une détérioration de la situation humanitaire dans la région.
+Depuis le début des attaques en octobre 2017, la violence s'est intensifiée, avec des pertes humaines et des destructions considérables. Les attaques ciblent non seulement les forces de l'ordre, mais aussi les bâtiments publics, les institutions financières et même les civils. La situation a provoqué le déplacement massif de populations, avec plus de 100 000 personnes déplacées, fuyant leurs foyers pour trouver refuge dans des zones plus sécurisées. Malgré les efforts du gouvernement pour contrer cette menace, l'incapacité à contenir efficacement Al-Shabaab a contribué à une escalade de la violence et à une détérioration de la situation humanitaire dans la région.
 
 Au travers d’un Rapport du cabinet CMI (Chr Michelsen Institute)([[Sources Impactes Géopolitique]][2]) qui fait état des parties prenants des conflits de la région Cabo Delgado et des scénarios possibles en découlant. Allant jusqu'à identifier Palma comme la potentielle future victime d'une attaque d'envergure 
 
@@ -70,9 +70,9 @@ De plus, les habitants du Cabo Delgado jouent de malchance. En fin janvier 2021 
 
 ![](https://lh7-us.googleusercontent.com/OHHOjcd1CT45Suq_OQSEliTRoxwKBReWLfvtlNxZj9Edga-vOZYr9wpB1WrFVlKZYzfqDH1JoW94ZK2heUlWQzrUBswo_ltq1ZEHK2uKwQSRlpqf0SyYKs0cXJbUV9Jji4BQqsWMPVTaB0WQoyrk7PI)
 
-Les zones ciblées par les frappes aériennes et les autres actions militaires du gouvernement mozambicain contre les militants se sont étendues par rapport à l'année dernière, avec un accent particulier sur le district de Palma, où se trouvent les principaux projets gaziers, à l'ensemble de la province. En effet, l'ISCAP concentre désormais son attention principale sur la ville de Nangade, où elle établit des barrages routiers afin de sécuriser la ville et de cibler les convois militaires empruntant la route principale([[Sources Evaluation des Risques]][3]).
+Les zones ciblées par les frappes aériennes et les autres actions militaires du gouvernement mozambicain contre les militants se sont étendues par rapport à l'année dernière, avec un accent particulier sur le district de Palma, où se trouvent les principaux projets gaziers. En effet, l'ISCAP concentre désormais son attention principale sur la ville de Nangade, où elle établit des barrages routiers afin de sécuriser la ville et de cibler les convois militaires empruntant la route principale([[Sources Evaluation des Risques]][3]).
   
-Du 31 janvier au 7 Férivier 2021, c’est la ville de Quionga qui se fait attaquer. De fait, la ville de Palma se trouve privée de son seul axé à la Tanzanie.
+Du 31 janvier au 7 Férivier 2021, c’est la ville de Quionga qui se fait attaquer. De fait, la ville de Palma se trouve privée de son seul accès à la Tanzanie.
 
 Attaque de Nangade: un tweet relai les informations d'une attaque : [lien](https://twitter.com/pmgrc156/status/1369550399531802624)
 
@@ -86,7 +86,7 @@ Cette crise de la région de Cabo Delgado, est largement médiatisée et attire 
 
 D’abord l'échec de groupes privés comme Wagner ou Van dyck donne l'échelle de la menace que peut représenter ce conflit.
 
-De plus, on peut retrouver sur les réseaux sociaux comme twitter . Plusieurs post témoignant d’une prise de position de pays comme les Etats Unis qui ont aux alentour du 15-20 mars 2021 décidé d’envoyer des troupes pour aider à la formation des soldats du Mozambique : [Tweet berets verts](https://x.com/LostWeapons/status/1373344287073521665?s=20). Cette investissement et les déclaration du Portugal mènent à penser que le conflit reste très présent et à le potentiel d’escalader ce qui représente une menace pour le territoire
+De plus, on peut retrouver sur les réseaux sociaux comme twitter, plusieurs post témoignant d’une prise de position de pays comme les Etats Unis qui ont aux alentour du 15-20 mars 2021 décidé d’envoyer des troupes pour aider à la formation des soldats du Mozambique : [Tweet berets verts](https://x.com/LostWeapons/status/1373344287073521665?s=20). Cette investissement et les déclaration du Portugal mènent à penser que le conflit reste très présent et à le potentiel d’escalader ce qui représente une menace pour le territoire
 
 De plus on peut trouver de nombreuses photos des groupes armés mais nous n'avons rien pus tirer de ces images si ce n'est évaluer la qualité de leur armement
 
@@ -133,10 +133,7 @@ Avant de se lancer pleinement dans le projet, il faudra s’assurer que le conte
 En termes de logistique et matériel, l'évacuation sera assurée par des hélicoptères prêtés directement sur place ou par bâteaux. En cas d'urgence, l’objectif sera de rejoindre les Comores avec qui un plan d’accueil sera négocié auparavant. 
 
 # Une crise est en train de naître/est survenue : damage containment !
-    
-
   
-
 Dès l’annonce de l’attaque, la priorité est d’alerter immédiatement tous les employés sur place et les navires à destination de la plateforme afin qu’ils modifient leur trajectoire. La sécurité immédiate des collaborateurs est ainsi assurée. L’armée locale doit également être prévenue au plus vite.
 
 Tous les systèmes d’informations (caméras, radios, drones..) disponibles doivent êtres mobilisés pour essayer de collecter le plus d’informations possible sur l’attaque, par exemple le nombre de terroristes, leur équipement et leurs déplacements. Cela permettra de mieux planifier et adapter la démarche d’urgence. Tous ces renseignements doivent être transmis à l’armée locale.
