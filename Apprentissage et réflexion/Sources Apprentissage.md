@@ -1,0 +1,4 @@
+[1]
+Les résultats pour des recherches depuis des zones géographique non liée au conflit comme la France sont limités  en terme de variété de source et de propositions des navigateurs de recherche c’est pourquoi à l’aide d ‘un dorking google couplé à l’usage d’un VPN , de nouveaux sites nous ont été proposé ce qui a permis de déterminer deux cible majeur à surveiller : [Lien] (https://www.dni.gov/nctc/ftos/isis_mozambique_fto.html)
+
+Et cela à permit via le dork `intitle:"Abu Yasir Hassan"` qui c'est révélé utile en terme d'information mais sans succès vis à vis de la prévision de l'attaque

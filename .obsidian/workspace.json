@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6d2df06aaad54e70",
+        "id": "d0c3a46021345573",
         "type": "tabs",
         "children": [
           {
-            "id": "0f8d607db210f804",
+            "id": "52e187ce7da4e236",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PlaceholdersNodes/Total.com.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -34,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 918.5
+    "width": 200
   },
   "right": {
     "id": "68a2af025ada4b81",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PlaceholdersNodes/Total.com.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PlaceholdersNodes/Total.com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PlaceholdersNodes/Total.com.md"
+              }
             }
           }
         ]
@@ -138,8 +146,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f8d607db210f804",
+  "active": "52e187ce7da4e236",
   "lastOpenFiles": [
-    "Welcome.md"
+    "PlaceholdersNodes/ACLED.md",
+    "PlaceholdersNodes/Total.com.md",
+    "Rapport Intelligence Economique.md",
+    "Établissement de scénarios de crise et des réponses appropriées/Sources Etablissement de scénarios de Crise.md",
+    "Alerte précoce et détection de signaux prémonitoires/Sources Evaluation des Risques.md",
+    "Alerte précoce et détection de signaux prémonitoires/Sources Impactes Géopolitique.md",
+    "Alerte précoce et détection de signaux prémonitoires/Sources Défis Majeurs du Mozambique.md",
+    "Apprentissage et réflexion/Sources Apprentissage.md",
+    "PlaceholdersNodes/jeuneafrique.md",
+    "PlaceholdersNodes/WayBackMachine.md",
+    "voice_chart.csv",
+    "PlaceholdersNodes",
+    "Images/Pasted image 20240328213627.png",
+    "Images/Pasted image 20240328210027.png",
+    "Images/Pasted image 20240328203608.png",
+    "jeuneafrique.com.md",
+    "Images",
+    "Images/Pasted image 20240328200138.png",
+    "web.archive.org.md",
+    "Alerte précoce et détection de signaux prémonitoires/Une situation tendue ( plus de 1 mois)/Untitled.md",
+    "Alerte précoce et détection de signaux prémonitoires/Une",
+    "Alerte précoce et détection de signaux prémonitoires/Une situation tendue ( plus de 1 mois)",
+    "Apprentissage et réflexion",
+    "Une crise est en train de naître est survenue damage containment",
+    "Établissement de scénarios de crise et des réponses appropriées",
+    "Alerte précoce et détection de signaux prémonitoires"
   ]
 }
