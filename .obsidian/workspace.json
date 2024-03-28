@@ -11,12 +11,8 @@
             "id": "52e187ce7da4e236",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PlaceholdersNodes/Total.com.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PlaceholdersNodes/Total.com.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PlaceholdersNodes/Total.com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PlaceholdersNodes/Total.com.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,16 +140,24 @@
   },
   "active": "52e187ce7da4e236",
   "lastOpenFiles": [
+    "Établissement de scénarios de crise et des réponses appropriées/Sources Etablissement de scénarios de Crise.md",
+    "Rapport Intelligence Economique.md",
+    "PlaceholdersNodes/LNG.md",
+    "PlaceholdersNodes/MarineTraffic.md",
+    "PlaceholdersNodes/clubmozambique.md",
+    "PlaceholdersNodes/DNI.gov.md",
+    "PlaceholdersNodes/insecurityinsight.md",
+    "PlaceholdersNodes/Firinga.md",
+    "PlaceholdersNodes/Twitter.md",
     "PlaceholdersNodes/ACLED.md",
     "PlaceholdersNodes/Total.com.md",
-    "Rapport Intelligence Economique.md",
-    "Établissement de scénarios de crise et des réponses appropriées/Sources Etablissement de scénarios de Crise.md",
-    "Alerte précoce et détection de signaux prémonitoires/Sources Evaluation des Risques.md",
-    "Alerte précoce et détection de signaux prémonitoires/Sources Impactes Géopolitique.md",
-    "Alerte précoce et détection de signaux prémonitoires/Sources Défis Majeurs du Mozambique.md",
-    "Apprentissage et réflexion/Sources Apprentissage.md",
-    "PlaceholdersNodes/jeuneafrique.md",
     "PlaceholdersNodes/WayBackMachine.md",
+    "PlaceholdersNodes/jeuneafrique.md",
+    "PlaceholdersNodes/CMI.md",
+    "Apprentissage et réflexion/Sources Apprentissage.md",
+    "Alerte précoce et détection de signaux prémonitoires/Sources Impactes Géopolitique.md",
+    "Alerte précoce et détection de signaux prémonitoires/Sources Evaluation des Risques.md",
+    "Alerte précoce et détection de signaux prémonitoires/Sources Défis Majeurs du Mozambique.md",
     "voice_chart.csv",
     "PlaceholdersNodes",
     "Images/Pasted image 20240328213627.png",
